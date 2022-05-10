@@ -1,0 +1,4 @@
+#Tue May 10 21:13:42 SGT 2022
+base.0=C\:\\Project\\UHD\\demo\\UHFR\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
